@@ -1,4 +1,4 @@
-# LocalGPT: Secure, Local Conversations with Your Documents 🌐
+# Ai system recommendation using localgpt
 
 🚨🚨 You can run localGPT on a pre-configured [Virtual Machine](https://bit.ly/localGPT). Make sure to use the code: PromptEngineering to get 50% off. I will get a small commision!
 
