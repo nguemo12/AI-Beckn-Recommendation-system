@@ -1,0 +1,9 @@
+numpy
+pandas
+torch
+wordcloud
+tqdm
+torch
+annoy
+sentence_transformers
+
